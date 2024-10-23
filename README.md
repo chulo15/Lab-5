@@ -1,2 +1,2 @@
-# Lab-5
+# lab-5
 Laboratory 5
